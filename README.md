@@ -12,9 +12,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This is the solution to my first challenge from frontendmentor where I have applied my basic HTML and CSS knowledge. I have not learned about building responsive layouts yet so this is not applied. 
 
