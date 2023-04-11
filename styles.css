@@ -15,7 +15,7 @@ main {
 }
 
 main:hover {
-    box-shadow: 0px 9px 12px -3px #777E8C;
+    box-shadow: 0px 9px 12px -3px hsl(220, 15%, 55%);
 }
 
 .text-container {
