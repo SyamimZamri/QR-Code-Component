@@ -57,4 +57,7 @@ To learn more about CSS Grid and Flexbox implementation.
 
 - Frontend Mentor - [@SyamimZamri](https://www.frontendmentor.io/profile/SyamimZamri)
 
+## Acknowledgments
 
+Thank you members of frontendmentor [@ecemgo](https://www.frontendmentor.io/profile/ecemgo) and [@0xAbdulKhalid](https://www.frontendmentor.io/profile/0xAbdulKhalid) for giving feedback and recommendations to my code. 
+I have utilised their insight and advice to improve my code. 
