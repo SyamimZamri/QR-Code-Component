@@ -45,6 +45,7 @@ This is the solution to my first challenge from frontendmentor where I have appl
 ### Continued development
 
 To learn more about CSS Grid and Flexbox implementation.
+To build code using mobile-first workflow. 
 
 
 ### Useful resources
