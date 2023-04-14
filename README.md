@@ -13,7 +13,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
-This is the solution to my first challenge from frontendmentor where I have applied my basic HTML and CSS knowledge. I have not learned about building responsive layouts yet so this is not applied. 
+This is the solution to my first challenge from frontendmentor where I have applied my basic HTML and CSS knowledge.
 
 
 ### Links
@@ -26,20 +26,23 @@ This is the solution to my first challenge from frontendmentor where I have appl
 ### Built with
 
 - Semantic HTML5 markup
-- Basic CSS 
+- CSS Grid layout 
 
 
 ### What I learned
 
+- accesibility issues
 - hsl values 
 - box-sizing 
 - box-shadow 
 - border-radius 
+- grid display 
+- centering elements 
 
 
 ### Continued development
 
-To implement this project using Bootstrap. 
+To learn more about CSS Grid and Flexbox implementation.
 
 
 ## Author
