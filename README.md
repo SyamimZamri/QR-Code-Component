@@ -51,6 +51,7 @@ To learn more about CSS Grid and Flexbox implementation.
 
 - [Semantic HTML](https://laylacodes.hashnode.dev/what-is-semantic-html) - This helped me to understand how to use semantic HTML correctly. 
 - [Guide to Centering in CSS](https://moderncss.dev/resource-the-complete-guide-to-centering-in-css/) - This is a thorough article which helped me to understand how to center elements using CSS. I'd recommend it to anyone still learning this concept.
+- [How to Center Anything with CSS](https://www.freecodecamp.org/news/how-to-center-anything-with-css-align-a-div-text-and-more/) - Another great article on how to center elements with CSS
 
 
 ## Author
