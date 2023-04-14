@@ -35,7 +35,7 @@ This is the solution to my first challenge from frontendmentor where I have appl
 - Accesibility issues:
   - Learned how to use semantic HTML tags correctly
       Example: <main>, <footer>
-  - Page has to contain <h1> when using <main> tag
+  - Page has to contain a level-one header when using <main> tag
 - How to center components dynamically using Grid layout
   - Not needing to use margin  
 - Styling box component using box-sizing and box-shadow properties 
