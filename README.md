@@ -10,6 +10,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -31,18 +32,25 @@ This is the solution to my first challenge from frontendmentor where I have appl
 
 ### What I learned
 
-- accesibility issues
-- hsl values 
-- box-sizing 
-- box-shadow 
-- border-radius 
-- grid display 
-- centering elements 
-
-
+- Accesibility issues:
+  - Learned how to use semantic HTML tags correctly
+      Example: <main>, <footer>
+  - Page has to contain <h1> when using <main> tag
+- How to center components dynamically using Grid layout
+  - Not needing to use margin  
+- Styling box component using box-sizing and box-shadow properties 
+- Being introduced to HSL values 
+  
+  
 ### Continued development
 
 To learn more about CSS Grid and Flexbox implementation.
+
+
+### Useful resources
+
+- [Semantic HTML](https://laylacodes.hashnode.dev/what-is-semantic-html) - This helped me to understand how to use semantic HTML correctly. 
+- [Guide to Centering in CSS](https://moderncss.dev/resource-the-complete-guide-to-centering-in-css/) - This is a thorough article which helped me to understand how to center elements using CSS. I'd recommend it to anyone still learning this concept.
 
 
 ## Author
